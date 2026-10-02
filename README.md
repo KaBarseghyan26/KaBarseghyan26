@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4H8wvlAUyT3X9Sl9JPh__fLRAFfFL6HPPB4MgbwY5A&amp;s=10" alt="The Power Of Boxing Fitness | Capstone PT &amp; Fitness"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf7Um4FHI4kPm_qrCgkfBDEbRTkkwBEC-wxVjUMzfHw&amp;s=10" alt="Обои бокс, boxing, Mike Tyson 2K на телефон и рабочий стол"/><img width="654" height="468" alt="image" src="https://github.com/user-attachments/assets/6de98cc5-d67f-427d-ac2e-87be01b02130" />
+
 <!--
 **KaBarseghyan26/KaBarseghyan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
